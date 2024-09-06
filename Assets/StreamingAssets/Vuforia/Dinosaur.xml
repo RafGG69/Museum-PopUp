@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="image2" size="0.297000 0.515618" />
+    <ImageTarget name="Screenshot" size="0.297000 0.167150" />
+    <ImageTarget name="image" size="0.297000 0.171377" />
+    <ImageTarget name="press_start_3" size="0.297000 0.413579" />
+    <ImageTarget name="marker_1_quiz" size="0.297000 0.412295" />
+    <ImageTarget name="Quiz_3" size="0.297000 0.225220" />
+    <ImageTarget name="quiz_2" size="0.297000 0.225220" />
+    <ImageTarget name="quiz_1" size="0.297000 0.225220" />
+    <ImageTarget name="6582b1d2-45c7-4a5c-beb5-886c3baf7ec2" size="0.297000 0.297000" />
+    <ImageTarget name="dino2" size="0.297000 0.420142" />
+    <ImageTarget name="dino1" size="0.297000 0.420142" />
+  </Tracking>
+</QCARConfig>

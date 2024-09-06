@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0da67f1a901af494288cbafce6a4e541, type: 3}
+  m_Name: Dino1
+  m_EditorClassIdentifier: 
+  includePhonemes: 0
+  phonemeTable: {fileID: 0}
+  voiceName: Paula J
+  voiceUUID: 33e64cd2
+  clips:
+  - {fileID: 3013376589742954421}
+--- !u!114 &3013376589742954421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: ab271e58-Dino 1
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: f530b7c4ed8ebd44bbb89f3f9ff3a247, type: 3}
+  text:
+    userString: 'Step into the Mesozoic Era to encounter the Pachycephalasaurus,
+      a dinosaur from 65 million years ago. Its iconic dome-shaped skull and intriguing
+      behaviors offer a glimpse into the Late Cretaceous world.
+
+
+      Marvel at
+      the Pachycephalasaurus'' reconstructed fossils and lifelike models, highlighting
+      its unique head structure and overall anatomy. The thick skull and preserved
+      body details showcase its adaptations.
+
+
+      Discover theories about the
+      dome''s purpose, from head-butting rivalries to mating displays. Interactive
+      displays let you experience the dome''s force, demonstrating its survival advantages.
+
+
+      Roam
+      through a recreated Late Cretaceous environment, encountering the Pachycephalasaurus
+      alongside other dinosaurs. Learn about its habitat, cohabitants, and the geological
+      conditions that preserved its fossils.'
+    tags: []
+    selectID: 602
+    carretID: 602
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: ab271e58
+  clipName: Dino 1
+  userdata: 
+  labels: []
