@@ -38,5 +38,7 @@ EditorBuildSettings:
   m_configObjects:
     EasyAR.Settings: {fileID: 11400000, guid: ab8f271daac3b174b94c432b8fc3fbea, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d6b7ee7bb9333394ca67afa10abeea68, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2f87bfa79bdca514a8b7a77ac6a9c072, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: ee261d3c49e1d714f9ab02bce6acb9f0, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3991b8d60d4d82439759e1b06fd8089, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7dca6401a09227f47b144e336182205a, type: 2}
